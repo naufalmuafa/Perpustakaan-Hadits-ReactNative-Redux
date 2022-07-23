@@ -15,14 +15,10 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/admirashofwa/reduxappreactnative.git
+git remote add origin https://github.com/naufalmuafa/Perpustakaan-Hadits-ReactNative-Redux.git
 git branch -M main
 git push -uf origin main
 ```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.com/admirashofwa/reduxappreactnative/-/settings/integrations)
 
 ## Collaborate with your team
 
